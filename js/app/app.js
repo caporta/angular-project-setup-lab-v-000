@@ -1,0 +1,2 @@
+// setter
+angular.module('app', [])
